@@ -3,8 +3,8 @@ title: LaravelのWebpack MixからViteへの移行した話
 tags:
   - Laravel
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-18T19:23:50+09:00'
+id: 4dd8706cbb3d45946728
 organization_url_name: null
 slide: false
 ignorePublish: false
