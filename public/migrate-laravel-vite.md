@@ -2,9 +2,6 @@
 title: LaravelのWebpack MixからViteへの移行した話
 tags:
   - Laravel
-  - Vue
-  - Laravel Mix
-  - Vite
 private: false
 updated_at: ''
 id: null
